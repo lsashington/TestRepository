@@ -1,6 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Add services to the container. Testing GitHub Copilot. This is a test comment
 
 builder.Services.AddControllers();
 
