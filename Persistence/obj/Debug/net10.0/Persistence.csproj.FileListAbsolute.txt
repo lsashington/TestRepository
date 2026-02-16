@@ -1,0 +1,15 @@
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\bin\Debug\net10.0\Persistence.deps.json
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\bin\Debug\net10.0\Persistence.dll
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\bin\Debug\net10.0\Persistence.pdb
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\bin\Debug\net10.0\Domain.dll
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\bin\Debug\net10.0\Domain.pdb
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\obj\Debug\net10.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\obj\Debug\net10.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\obj\Debug\net10.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\obj\Debug\net10.0\Persistence.AssemblyInfo.cs
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\obj\Debug\net10.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\obj\Debug\net10.0\Persiste.61C28332.Up2Date
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\obj\Debug\net10.0\Persistence.dll
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\obj\Debug\net10.0\refint\Persistence.dll
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\obj\Debug\net10.0\Persistence.pdb
+C:\Users\Sashington\OneDrive\Documents\Full_Stack_Practice\Test\Persistence\obj\Debug\net10.0\ref\Persistence.dll
